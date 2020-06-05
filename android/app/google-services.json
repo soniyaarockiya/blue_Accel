@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "900584662741",
+    "firebase_url": "https://blueaccel-d5010.firebaseio.com",
+    "project_id": "blueaccel-d5010",
+    "storage_bucket": "blueaccel-d5010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900584662741:android:13e8aa95e8198cf40c245c",
+        "android_client_info": {
+          "package_name": "com.example.blue_accel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900584662741-3ns2ar1bo5dnpkuifh6mmjdielm0hlee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUcm1xrreQGCAKJ2-0x2LY0mA___jB7BY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900584662741-3ns2ar1bo5dnpkuifh6mmjdielm0hlee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
